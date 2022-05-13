@@ -1,0 +1,6 @@
+framework module Pods_AppSplash {
+  umbrella header "Pods-AppSplash-umbrella.h"
+
+  export *
+  module * { export * }
+}
